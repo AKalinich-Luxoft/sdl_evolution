@@ -79,4 +79,6 @@ SDL policies component may be affected by this proposal. By that reason, policie
 
 It was considered to postpone another RPCs which were added in the latest SDL releases but was not present in Sync3.2v2.
 
+As another way for BT transport performance improvement is to compress RPCs containing binary files (like PutFile, OnSystemRequest). For this way it is required changes from both mobile and SDL side. Mobile apps should compress files trasferred via RPC messages to SDL and SDL should decompress such files before working with them. However, this improvement will work only in case mobile app developers will follow such approach on their end.
+
 Also, this proposal is just for IAP2 performance improvement so if there is no any performance issues observed on the latest releases - SDL implementation can be kept without proposed changes.
