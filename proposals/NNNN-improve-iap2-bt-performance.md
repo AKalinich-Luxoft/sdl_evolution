@@ -1,4 +1,4 @@
-# Create POC for improve iAP2 over BT performance
+# Improve iAP2 over BT performance during apps registraion
 
 * Proposal: [SDL-NNNN](NNNN-improve-iap2-bt-performance.md)
 * Author: [Andrii Kalinich](https://github.com/AKalinich-Luxoft)
