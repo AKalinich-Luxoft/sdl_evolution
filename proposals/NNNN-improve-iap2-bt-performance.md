@@ -1,4 +1,4 @@
-# Improve iAP2 over BT performance during apps registraion
+# Improve iAP2 over BT performance during apps registration
 
 * Proposal: [SDL-NNNN](NNNN-improve-iap2-bt-performance.md)
 * Author: [Andrii Kalinich](https://github.com/AKalinich-Luxoft)
